@@ -4,6 +4,12 @@ namespace finaSınav
 {
     class Program
     {
+
+        /*
+         şifre koruması adına sesli harflerin karşılığında verilen sembollere dönüştürür ve şifreyi tersten yazarak gösterir
+        amaç: bilgileri daha gizli tutabilmek
+         
+         */
         static void Main(string[] args)
         {
             Console.WriteLine(sifreOlustur("aslkaldslfa"));
