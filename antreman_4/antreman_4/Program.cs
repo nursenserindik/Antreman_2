@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace finaSınav
+namespace antreman_4
 {
     class Program
     {
